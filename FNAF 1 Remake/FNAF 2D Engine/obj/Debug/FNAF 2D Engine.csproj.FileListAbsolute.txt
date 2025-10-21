@@ -1,0 +1,15 @@
+C:\Users\User\Documents\FNAF 2D Engine\FNAF 2D Engine\bin\Debug\FNAF 2D Engine.exe.config
+C:\Users\User\Documents\FNAF 2D Engine\FNAF 2D Engine\bin\Debug\FNAF 2D Engine.exe
+C:\Users\User\Documents\FNAF 2D Engine\FNAF 2D Engine\bin\Debug\FNAF 2D Engine.pdb
+C:\Users\User\Documents\FNAF 2D Engine\FNAF 2D Engine\obj\Debug\FNAF 2D Engine.csproj.AssemblyReference.cache
+C:\Users\User\Documents\FNAF 2D Engine\FNAF 2D Engine\obj\Debug\FNAF_2D_Engine.Properties.Resources.resources
+C:\Users\User\Documents\FNAF 2D Engine\FNAF 2D Engine\obj\Debug\FNAF 2D Engine.csproj.GenerateResource.cache
+C:\Users\User\Documents\FNAF 2D Engine\FNAF 2D Engine\obj\Debug\FNAF 2D Engine.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\FNAF 2D Engine\FNAF 2D Engine\obj\Debug\FNAF 2D Engine.exe
+C:\Users\User\Documents\FNAF 2D Engine\FNAF 2D Engine\obj\Debug\FNAF 2D Engine.pdb
+C:\Users\User\Documents\FNAF 2D Engine\FNAF 2D Engine\obj\Debug\FNAF_2D_Engine.Engine.resources
+C:\Users\User\Documents\FNAF 2D Engine\FNAF 2D Engine\obj\Debug\FNAF_2D_Engine.Game.resources
+C:\Users\User\Documents\FNAF 2D Engine\FNAF 2D Engine\obj\Debug\FNAF 2D Engine.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\FNAF 2D Engine\FNAF 2D Engine\bin\Debug\System.Drawing.Common.dll
+C:\Users\User\Documents\FNAF 2D Engine\FNAF 2D Engine\bin\Debug\System.Drawing.Common.xml
+C:\Users\User\Documents\FNAF 2D Engine\FNAF 2D Engine\obj\Debug\FNAF 2D Engine.csproj.CopyComplete
