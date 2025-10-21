@@ -22,6 +22,11 @@ These visual artifacts are expected and a limitation of the framework, not the l
   - Focused on replicating basic gameplay logic and UI flow
   - Designed as a learning exercise in desktop application programming, not a playable remake
 
+# Screenshots
+![Screenshot1](https://github.com/tenshi64/FNaF1-WinFormsEdition/blob/main/screenshots/screenshot1.png)
+![Screenshot2](https://github.com/tenshi64/FNaF1-WinFormsEdition/blob/main/screenshots/screenshot2.png)
+![Screenshot3](https://github.com/tenshi64/FNaF1-WinFormsEdition/blob/main/screenshots/screenshot3.png)
+
 ## Disclaimer
 All trademarks, audio, and visual assets used in this project belong to **Scott Cawthon**, the original creator of **Five Nights at Freddy’s**.
 This project is not affiliated with, endorsed or supported by **Scott Cawthon** or any official entity.
