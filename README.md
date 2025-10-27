@@ -1,6 +1,6 @@
 # FNaF1-WinFormsEdition
 This project was created for educational purposes only.
-FNaF1-Reimagined is a prototype that recreates some of the core mechanics of Five Nights at Freddy’s in a Windows Forms application using C# and .NET.
+FNaF1-WinFormsEdition is a prototype that recreates some of the core mechanics of Five Nights at Freddy’s in a Windows Forms application using C# and .NET.
 It was made as a personal learning project to experiment with UI-driven game logic and event handling outside a traditional game engine.
 
 ## Overview
